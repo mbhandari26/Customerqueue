@@ -1,22 +1,4 @@
-//****************************************************************************************************
-//
-//		File:					waitList.cpp
-//		
-//		Student:				Manish Bhandari
-//
-//		Assignment:	 			Program  # 11
-//
-//		Course Name:			Data Structures   II 
-//
-//		Course Number:			COSC 3100 - 01
-//
-//		Due:					Nov 17, 2019
-//
-//
-//		This program uses a heap class to establish a priority queue of 
-//		overbooked customers for an airline company.
-//		
-//****************************************************************************************************
+
 
 #include<iostream>
 #include<fstream>
